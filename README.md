@@ -27,7 +27,7 @@ Both algorithms are compared by **total cost**, **execution time**, and **operat
 - `KruskalAlgorithm` — MST using **Union-Find (Disjoint Set)**.  
 - `MetricsCollector` — tracks execution time and operation counts.  
 - `MSTResult` — stores MST edges, total cost, and metrics.  
-- `Main.java` — runs both algorithms, compares results, and exports them as JSON and 
+- `Main.java` — runs both algorithms, compares results, and exports them as JSON and CSV.
 
 ---
 
