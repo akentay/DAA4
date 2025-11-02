@@ -1,4 +1,4 @@
-# 🌿 Minimum Spanning Tree — Prim & Kruskal
+#  Minimum Spanning Tree — Prim & Kruskal
 
 **Student:** Аида Кентай  
 **Group:** SE - 2428 
