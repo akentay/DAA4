@@ -37,9 +37,5 @@ Both algorithms are compared by **total cost**, **execution time**, and **operat
 - **Java 17 or higher**  
 - **Maven** installed (`mvn -v` to check)
 
-### Commands
 
-**Build the project:**
-```bash
-mvn clean install
 
